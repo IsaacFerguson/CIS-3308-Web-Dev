@@ -1,0 +1,13 @@
+.castle {
+    background-color: #4f0821;
+    border-radius: 0.25rem;
+    padding: 0.25rem;
+    margin: 1rem;
+    color: white;
+}
+.castle button {
+    color: white;
+    background-color:darkblue;
+}
+
+
